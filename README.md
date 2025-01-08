@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NITHISH3498
+- 👋 Hi, I’m @NITHISH
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning 2nd year ece in KLN COLLLEGE OF ENGINEERING , MADURAI
 - 💞️ I’m looking to collaborate on doing projects
